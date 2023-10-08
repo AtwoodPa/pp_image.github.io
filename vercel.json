@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://raw.githubusercontent.com/AtwoodPa/pp_image.github.io/main/$1"
+    }
+  ]
+}
